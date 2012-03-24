@@ -9,7 +9,7 @@
 
     <groupId>com.codeslap</groupId>
     <artifactId>android-billing-library</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>apklib</packaging>
     <name>Android Billing Library</name>
     <description>Android Library to implement in-app billing</description>
